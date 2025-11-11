@@ -6,5 +6,25 @@ namespace Exercicio_Calculadora
         {
             InitializeComponent();
         }
+
+        private void hopeRoundButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void hopeRoundButton2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Formulario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void hopeRoundButton4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
